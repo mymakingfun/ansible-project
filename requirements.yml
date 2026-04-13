@@ -1,3 +1,7 @@
-# 用于定义需要安装的Ansible Galaxy角色和集合
+# Ansible Galaxy requirements file
+# 示例：
 # - src: geerlingguy.nginx
 #   version: 3.1.0
+
+roles: []
+collections: []
