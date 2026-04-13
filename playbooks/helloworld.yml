@@ -1,0 +1,8 @@
+---
+- name: Hello World 示例
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: 打印 Hello World
+      debug:
+        msg: "Hello, World!"

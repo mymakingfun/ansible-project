@@ -1,0 +1,3 @@
+# 用于定义需要安装的Ansible Galaxy角色和集合
+# - src: geerlingguy.nginx
+#   version: 3.1.0
